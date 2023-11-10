@@ -1,0 +1,20 @@
+optimizer,epochs,batch_size
+adam, 10, 32
+adam, 15, 32
+adam, 20, 32
+adam, 25, 32
+adam, 30, 32
+adam, 35, 32
+adam, 40, 32
+adam, 45, 32
+adam, 50, 32
+sgd, 5, 32
+sgd, 10, 32
+sgd, 15, 32
+sgd, 20, 32
+sgd, 25, 32
+sgd, 30, 32
+sgd, 35, 32
+sgd, 40, 32
+sgd, 45, 32
+sgd, 50, 32
